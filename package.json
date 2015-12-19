@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "One Stitch Simulation",
   "main": "index.js",
-  "start": "index.js",
+  "start": "node index.js",
   "dependencies": {
     "express": "^4.13.3"
   },
