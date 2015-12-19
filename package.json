@@ -1,1 +1,23 @@
-
+{
+  "name": "one-stitch",
+  "version": "1.0.0",
+  "description": "One Stitch Simulation",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-a-mercury/one-stitch.git"
+  },
+  "author": "J. A. Mercury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j-a-mercury/one-stitch/issues"
+  },
+  "homepage": "https://github.com/j-a-mercury/one-stitch#readme"
+}
