@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "One Stitch Simulation",
   "main": "index.js",
+  "enginges": {
+	"node": "4.2.3"
+  },
   "dependencies": {
     "express": "^4.13.3"
   },
