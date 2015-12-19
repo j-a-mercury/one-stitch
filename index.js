@@ -5,7 +5,7 @@ app.get('/', function(req, res) {
 	res.send('Hellow World!');
 });
 
-var server = app.listen(80, funciton() {
+var server = app.listen(80, function() {
 	var host = server.address().address;
 	var port = server.address().port;
 
