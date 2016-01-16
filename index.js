@@ -14,7 +14,7 @@ app.get('generate.js', function(req, res) {
 	});
 });
 
-app.get('index.html', function(req, res) {
+app.get('*', function(req, res) {
 	res.sendfile('index.html');
 });
 
