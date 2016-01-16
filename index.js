@@ -7,7 +7,7 @@ app.get('/generate.js', function(req, res) {
 	var fs = require('fs');
 	fs.writeFileSync('json/data.json', 'Hey there!', function(err) {
     		if(err) {
-        		return console.log(err);
+        		res.send(err);
     		} else {
     			res.send('wrote');
     		}
