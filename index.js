@@ -1,9 +1,7 @@
 var express = require('express');
 var app = express();
 
-app.get('*.json', function(req, res) {
-	res.sendfile(req.path);
-});
+app.use(express.static(__dirname + '/json'));
 
 app.get('generate.js', function(req, res) {
 	var fs = require('fs');
