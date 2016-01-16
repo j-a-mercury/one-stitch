@@ -8,6 +8,8 @@ app.get('generate.js', function(req, res) {
 	fs.writeFileSync('json/data.json', 'Hey there!', function(err) {
     		if(err) {
         		return console.log(err);
+    		} else {
+    			res.send('wrote');
     		}
 	});
 });
