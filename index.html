@@ -1,1 +1,72 @@
-<p>Hi</p>
+<html>
+	<head>
+		<script src="https://rawgithub.com/DmitryBaranovskiy/raphael/master/raphael-min.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+		<script src="data.json"></script>
+		<style>* { margin: 0; padding; 0);</style>
+	</head>
+	<body>
+		<script>
+			rate = 10;// if None == self.GET.get('rate') else self.GET.get('rate');
+			$(function() {
+				for(var i = 0; i < stitched.length; i++) {
+					stitched[i].animate(anim.delay(i * rate));
+				}
+			});
+			var width = $(window).width();
+			var height = $(window).height();
+			var raw_width = 23510;
+			var raw_height = 15210;
+			var x = (height * raw_width) / raw_height;
+			var y = (x * raw_height) / raw_width;
+			if(x > width) {
+				y = (width * raw_height) / raw_width;
+				x = (y * raw_width) / raw_height;
+			}
+			var factor = raw_width / x;
+			var paper = new Raphael($('body').get(0),x,y);
+			var rect = paper.rect(0,0,23510,15210);
+			rect.attr('fill', '#000');
+			rect.attr('stroke', '#000');
+			var anim = Raphael.animation({'opacity' : 1},1);
+			paper.setStart();
+			var stitched = new Array();
+			for(var i = 0; i < stitches.length; i++) {
+				stitched[i] = paper.rect(stitches[i].x,stitches[i].y,stitches[i].width,stitches[i].height);
+				stitched[i].attr('fill', stitches[i].fill);
+				stitched[i].attr('stroke-width', stitches[i].stroke_width);
+				stitched[i].attr('opacity', stitches[i].opacity);
+			}
+			var set = paper.setFinish();
+			paper.setViewBox(0,0,23510,15210,true);
+			var initialClick = true;
+			var clicks, timer, delay;
+			clicks=0;delay=250;timer=null;
+			$('body').click(function(e){
+				clicks++;
+				timer = setTimeout(function() {
+					switch(clicks){
+						case 1:
+							set.attr('stroke-width', 1);
+							if(true === initialClick) {
+								xNew = (e.clientX * factor) - (x / 1.5);
+								yNew = (e.clientY * factor) - (y / 1.5);
+							} else {
+								xNew = (xNew + e.clientX) - (x / 1.9);
+								yNew = (yNew + e.clientY) - (y / 1.9);
+							}
+							paper.setViewBox(xNew,yNew,x * 1.25,y * 1.25,true);
+							initialClick = false;
+							break;
+						case 2:
+							set.attr('stroke-width', 0);
+							paper.setViewBox(0,0,23510,15210,true);
+							initialClick = true;
+							break;
+					}
+					clicks=0;
+				}, delay);
+			});
+		</script>
+	</body>
+</html>
