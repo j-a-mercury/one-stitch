@@ -2,7 +2,7 @@ var express = require('express');
 var app = express();
 
 app.get('*.json', function(req, res) {
-	res.sendfile('app' + req.path);
+	res.sendfile(req.path);
 });
 
 app.get('generate.js', function(req, res) {
@@ -17,8 +17,6 @@ app.get('generate.js', function(req, res) {
 app.get('*', function(req, res) {
 	res.sendfile('index.html');
 });
-
-app.use(express.static(__dirname));
 
 var portaroo = process.env.PORT || 3000
 
