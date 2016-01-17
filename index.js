@@ -8,7 +8,7 @@ app.get('/generate.js', function(req, res) {
 	var dmc = {};
 	var sections = {};
 	var stitches = [];
-	fs.readFile('./json/dmc.json', function(err, dmc_data) {
+	fs.readFile('./dmc.json', function(err, dmc_data) {
 /*		if(err) {
 			res.send('dmc fail');
 		} else {
