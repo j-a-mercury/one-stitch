@@ -46,7 +46,8 @@ app.get('/generate.js', function(req, res) {
 								if(err) {
 									res.send('write fail' + data);
 								} else {
-									res.send('success' + data);
+									var when = new Date();
+									res.send(when.toDateString() + 'success' + data);
 								}
 							});
 						}
