@@ -5,11 +5,11 @@ app.use(express.static(__dirname + '/json'));
 
 app.get('/generate.js', function(req, res) {
 	var fs = require('fs');
-	var dmc = {}
-	var sections = {}
-	var stitches = []
-	fs.readFile('./json/dmc.json'), function(err, data) {
-/*		if(err) {
+	var dmc = {};
+	var sections = {};
+	var stitches = [];
+/*	fs.readFile('./json/dmc.json'), function(err, data) {
+		if(err) {
 			res.send('dmc fail');
 		} else {
 			dmc = JSON.parse(data);
@@ -51,7 +51,7 @@ app.get('/generate.js', function(req, res) {
 				}
 			});
 		}
-*/	});
+	});*/
 });
 
 app.get('*', function(req, res) {
