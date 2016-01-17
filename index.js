@@ -9,12 +9,12 @@ app.get('/generate.js', function(req, res) {
 	var sections = {}
 	var stitches = []
 	fs.readFile('./json/dmc.json'), function(err, data) {
-		if(err) {
+/*		if(err) {
 			res.send('dmc fail');
 		} else {
 			dmc = JSON.parse(data);
 			console.log(dmc);
-/*			fs.readFile('./json/sections.json', function(err, data) {
+			fs.readFile('./json/sections.json', function(err, data) {
 				if(err) {
 					res.send('sections fail');
 				} else {
@@ -50,8 +50,8 @@ app.get('/generate.js', function(req, res) {
 					});
 				}
 			});
-*/		}
-	});
+		}
+*/	});
 });
 
 app.get('*', function(req, res) {
