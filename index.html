@@ -7,7 +7,14 @@
 	</head>
 	<body>
 		<script>
-			rate = 10;// if None == self.GET.get('rate') else self.GET.get('rate');
+			rate = 10;
+			if(1 < window.location.search.length) {
+				possible = window.location.search.substring(1);
+				possibleInt = parseInt(possible);
+				if(possible == possibleInt.toString()) {
+					rate = possibleInt;
+				}
+			}
 			$(function() {
 				for(var i = 0; i < stitched.length; i++) {
 					stitched[i].animate(anim.delay(i * rate));
