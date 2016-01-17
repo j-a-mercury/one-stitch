@@ -2,14 +2,14 @@ var express = require('express');
 var app = express();
 var fs = require('fs');
 
-//app.use(express.static(__dirname + '/json'));
+app.use(express.static(__dirname + '/json'));
 
 app.get('/generate.js', function(req, res) {
 	var dmc = {};
 	var sections = {};
 	var stitches = [];
 	fs.readFile('./json/dmc.json', function(err, dmc_data) {
-/*		if(err) {
+		if(err) {
 			res.send('dmc fail');
 		} else {
 			dmc = JSON.parse(dmc_data);
@@ -47,7 +47,7 @@ app.get('/generate.js', function(req, res) {
 				}
 			});
 		}
-*/	});
+	});
 });
 
 app.get('*', function(req, res) {
