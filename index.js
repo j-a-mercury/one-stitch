@@ -47,7 +47,7 @@ app.get('/generate.js', function(req, res) {
 									res.send('write fail' + data);
 								} else {
 									var when = new Date();
-									res.send(when.toDateString() + 'success' + data);
+									res.send(when.toLocaleString() + 'success' + data);
 								}
 							});
 						}
