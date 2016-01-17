@@ -20,7 +20,7 @@ app.get('/generate.js', function(req, res) {
 				} else {
 					sections = JSON.parse(data);
 					console.log(sections);
-					fs.readFile('./json/stitches.json', function(err, data) {
+/*					fs.readFile('./json/stitches.json', function(err, data) {
 						if(err) {
 							res.send('stitches fail');
 						} else {
@@ -48,7 +48,7 @@ app.get('/generate.js', function(req, res) {
 							});
 						}
 					});
-				}
+*/				}
 			});
 		}
 	});
