@@ -27,7 +27,6 @@ app.get('/generate.js', function(req, res) {
 							stitches = JSON.parse(data);
 							console.log(stitches);
 							var data = [];
-							var pad = 000;
 							stitches.forEach(function(k, v) {
 								var new = {"type":"rect","width":10,"height":10,"stroke_width":0,"opacity":0,"x":0,"y":0,"fill":"#"};
 								new['x'] = (sections[v.section]['offset_x'] + v.x) * 10;
