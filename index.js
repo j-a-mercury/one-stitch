@@ -14,13 +14,13 @@ app.get('/generate.js', function(req, res) {
 		} else {
 			dmc = JSON.parse(data);
 			console.log(dmc);
-			fs.readFile('./json/sections.json', function(err, data) {
+/*			fs.readFile('./json/sections.json', function(err, data) {
 				if(err) {
 					res.send('sections fail');
 				} else {
 					sections = JSON.parse(data);
 					console.log(sections);
-/*					fs.readFile('./json/stitches.json', function(err, data) {
+					fs.readFile('./json/stitches.json', function(err, data) {
 						if(err) {
 							res.send('stitches fail');
 						} else {
@@ -48,9 +48,9 @@ app.get('/generate.js', function(req, res) {
 							});
 						}
 					});
-*/				}
+				}
 			});
-		}
+*/		}
 	});
 });
 
