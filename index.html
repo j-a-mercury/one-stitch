@@ -22,8 +22,8 @@
 			});
 			var width = $(window).width();
 			var height = $(window).height();
-			var raw_width = 23510;
-			var raw_height = 15210;
+			var raw_width = 18820;
+			var raw_height = 11330;
 			var x = (height * raw_width) / raw_height;
 			var y = (x * raw_height) / raw_width;
 			if(x > width) {
@@ -32,7 +32,7 @@
 			}
 			var factor = raw_width / x;
 			var paper = new Raphael($('body').get(0),x,y);
-			var rect = paper.rect(0,0,23510,15210);
+			var rect = paper.rect(0,0,raw_width,raw_height);
 			rect.attr('fill', '#000');
 			rect.attr('stroke', '#000');
 			var anim = Raphael.animation({'opacity' : 1},1);
@@ -45,7 +45,7 @@
 				stitched[i].attr('opacity', stitches[i].opacity);
 			}
 			var set = paper.setFinish();
-			paper.setViewBox(0,0,23510,15210,true);
+			paper.setViewBox(0,0,raw_width,raw_height,true);
 			var initialClick = true;
 			var clicks, timer, delay;
 			clicks=0;delay=250;timer=null;
@@ -67,7 +67,7 @@
 							break;
 						case 2:
 							set.attr('stroke-width', 0);
-							paper.setViewBox(0,0,23510,15210,true);
+							paper.setViewBox(0,0,raw_width,raw_height,true);
 							initialClick = true;
 							break;
 					}
