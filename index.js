@@ -1,31 +1,28 @@
 var express = require('express');
 var app = express();
+var fs = require('fs');
 
 app.use(express.static(__dirname + '/json'));
 
 app.get('/generate.js', function(req, res) {
-	var fs = require('fs');
 	var dmc = {};
 	var sections = {};
 	var stitches = [];
 	fs.readFile('./json/dmc.json', function(err, dmc_data) {
-		if(err) {
+/*		if(err) {
 			res.send('dmc fail');
 		} else {
 			dmc = JSON.parse(dmc_data);
-			console.log(dmc);
 			fs.readFile('./json/sections.json', function(err, section_data) {
 				if(err) {
 					res.send('sections fail');
 				} else {
 					sections = JSON.parse(section_data);
-					console.log(sections);
 					fs.readFile('./json/stitches.json', function(err, stitch_data) {
 						if(err) {
 							res.send('stitches fail');
 						} else {
 							stitches = JSON.parse(stitch_data);
-							console.log(stitches);
 							var data = [];
 							stitches.forEach(function(k, v) {
 								var stitch = {"type":"rect","width":10,"height":10,"stroke_width":0,"opacity":0,"x":0,"y":0,"fill":"#"};
@@ -50,7 +47,7 @@ app.get('/generate.js', function(req, res) {
 				}
 			});
 		}
-	});
+*/	});
 });
 
 app.get('*', function(req, res) {
