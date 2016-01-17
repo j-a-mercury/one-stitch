@@ -24,18 +24,18 @@ app.get('/generate.js', function(req, res) {
 						if(err) {
 							res.send('stitches fail');
 						} else {
-							stitches = JSON.parse(data)
+							stitches = JSON.parse(data);
 							console.log(stitches);
-							var data = []
+							var data = [];
 							var pad = 000;
 							stitches.forEach(function(k, v) {
-								var new = {'type':'rect','width':10,'height':10,'stroke_width':0,'opacity':0,'x':0,'y':0,'fill':'#'};
-								new.x = (sections[v.section]['offset_x'] + v.x) * 10;
-								new.y = (sections[v.section]['offset_y'] + v.y) * 10;
+								var new = {"type":"rect","width":10,"height":10,"stroke_width":0,"opacity":0,"x":0,"y":0,"fill":"#"};
+								new['x'] = (sections[v.section]['offset_x'] + v.x) * 10;
+								new['y'] = (sections[v.section]['offset_y'] + v.y) * 10;
 								var red = dmc[v.dmc]['red'].toString(16).toUpperCase();
 								var green = dmc[v.dmc]['green'].toString(16).toUpperCase();
 								var blue = dmc[v.dmc]['blue'].toString(16).toUpperCase();
-								new.fill = '#' + (1 == red.length ? 0 + red : red) + (1 == green.length ? 0 + green : green) + (1 == blue.length ? 0 + blue : blue);
+								new['fill'] = '#' + (1 == red.length ? 0 + red : red) + (1 == green.length ? 0 + green : green) + (1 == blue.length ? 0 + blue : blue);
 								data.push(new);
 							});
 							data = 'var stitches = ' + JSON.stringify(data);
