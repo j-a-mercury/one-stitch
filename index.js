@@ -24,7 +24,14 @@ app.get('/generate.js', function(req, res) {
 						} else {
 							stitches = JSON.parse(stitch_data);
 							var data = [];
-							stitches.forEach(function(k, v) {
+							var sanity = [];
+							stitches.forEach(function(v) {
+								var key = v.section + '-' + v.x + '-' + v.y;
+								if(-1 != sanity.indexOf(key)) {
+									res.send('duplicate fail' + key);
+								} else {
+									sanity.push(key);
+								}
 								var stitch = {"type":"rect","width":10,"height":10,"stroke_width":0,"opacity":0,"x":0,"y":0,"fill":"#"};
 								stitch.x = (sections[v.section].offset_x + v.x) * 10;
 								stitch.y = (sections[v.section].offset_y + v.y) * 10;
@@ -51,7 +58,7 @@ app.get('/generate.js', function(req, res) {
 });
 
 app.get('*', function(req, res) {
-	res.sendfile('index.html');
+	res.sendFile(__dirname + '/index.html');
 });
 
 var portaroo = process.env.PORT || 3000;
