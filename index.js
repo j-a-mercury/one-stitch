@@ -4,6 +4,10 @@ var fs = require('fs');
 
 app.use(express.static(__dirname + '/json'));
 
+app.get('/final.png', function(req, res) {
+	res.sendFile(__dirname + '/final.png');
+});
+
 app.get('/generate.js', function(req, res) {
 	var dmc = {};
 	var sections = {};
