@@ -8,7 +8,7 @@ app.get('/final.png', function(req, res) {
 	res.sendFile(__dirname + '/final.png');
 });
 
-app.get('/generate.js', function(req, res) {
+app.get('*', function(req, res) {
 	var dmc = {};
 	var sections = {};
 	var stitches = [];
@@ -49,9 +49,6 @@ app.get('/generate.js', function(req, res) {
 							fs.writeFile('./json/data.json', data, function(err) {
 								if(err) {
 									res.send('write fail' + data);
-								} else {
-									var when = new Date();
-									res.send('success' + when.toLocaleString());
 								}
 							});
 						}
@@ -60,9 +57,6 @@ app.get('/generate.js', function(req, res) {
 			});
 		}
 	});
-});
-
-app.get('*', function(req, res) {
 	res.sendFile(__dirname + '/index.html');
 });
 
