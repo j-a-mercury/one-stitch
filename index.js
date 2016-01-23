@@ -2,9 +2,6 @@ var exps = require('express');
 var app = exps();
 var fs = require('fs');
 
-function generate() {
-}
-
 app.use(exps.static(__dirname + '/static'));
 
 app.get('/data.json', function(req, res) {
