@@ -2,13 +2,7 @@ var express = require('express');
 var app = express();
 var fs = require('fs');
 
-app.use(express.static(__dirname + '/json'));
-
-app.get('/final.png', function(req, res) {
-	res.sendFile(__dirname + '/final.png');
-});
-
-app.get('*', function(req, res) {
+function generate() {
 	var dmc = {};
 	var sections = {};
 	var stitches = [];
@@ -55,6 +49,20 @@ app.get('*', function(req, res) {
 					});
 				}
 			});
+		}
+	});
+}
+
+app.use(express.static(__dirname + '/json'));
+
+app.get('/final.png', function(req, res) {
+	res.sendFile(__dirname + '/final.png');
+});
+
+app.get('*', function(req, res) {
+	fs.readFile('./json/data.json', fucntion(err) {
+		if(err) {
+			generate();
 		}
 	});
 	res.sendFile(__dirname + '/index.html');
