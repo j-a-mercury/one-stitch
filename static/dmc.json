@@ -1,0 +1,2726 @@
+{
+  "150": {
+    "description": "dusty rose; ultra very dark",
+    "red": 171,
+    "green": 2,
+    "blue": 73
+  },
+  "151": {
+    "description": "dusty rose; very light",
+    "red": 240,
+    "green": 206,
+    "blue": 212
+  },
+  "152": {
+    "description": "shell pink; medium light",
+    "red": 226,
+    "green": 160,
+    "blue": 153
+  },
+  "153": {
+    "description": "violet; very light",
+    "red": 230,
+    "green": 204,
+    "blue": 217
+  },
+  "154": {
+    "description": "grape; very dark",
+    "red": 87,
+    "green": 36,
+    "blue": 51
+  },
+  "155": {
+    "description": "blue violet; medium dark",
+    "red": 152,
+    "green": 145,
+    "blue": 182
+  },
+  "156": {
+    "description": "blue violet; medium light",
+    "red": 163,
+    "green": 174,
+    "blue": 209
+  },
+  "157": {
+    "description": "cornflower blue; very light",
+    "red": 187,
+    "green": 195,
+    "blue": 217
+  },
+  "158": {
+    "description": "cornflower blue; medium very dark",
+    "red": 76,
+    "green": 82,
+    "blue": 110
+  },
+  "159": {
+    "description": "blue gray; light",
+    "red": 199,
+    "green": 202,
+    "blue": 215
+  },
+  "160": {
+    "description": "blue gray; medium",
+    "red": 153,
+    "green": 159,
+    "blue": 183
+  },
+  "161": {
+    "description": "blue gray",
+    "red": 120,
+    "green": 128,
+    "blue": 164
+  },
+  "162": {
+    "description": "blue; ultra very light",
+    "red": 219,
+    "green": 236,
+    "blue": 245
+  },
+  "163": {
+    "description": "celadon green; medium",
+    "red": 77,
+    "green": 131,
+    "blue": 97
+  },
+  "164": {
+    "description": "forest green; light",
+    "red": 200,
+    "green": 216,
+    "blue": 184
+  },
+  "165": {
+    "description": "moss green; very light",
+    "red": 239,
+    "green": 244,
+    "blue": 164
+  },
+  "166": {
+    "description": "moss green; medium light",
+    "red": 192,
+    "green": 200,
+    "blue": 64
+  },
+  "167": {
+    "description": "yellow beige; very dark",
+    "red": 167,
+    "green": 124,
+    "blue": 73
+  },
+  "168": {
+    "description": "pewter; very light",
+    "red": 209,
+    "green": 209,
+    "blue": 209
+  },
+  "169": {
+    "description": "pewter; light",
+    "red": 132,
+    "green": 132,
+    "blue": 132
+  },
+  "208": {
+    "description": "lavender; very dark",
+    "red": 131,
+    "green": 91,
+    "blue": 139
+  },
+  "209": {
+    "description": "lavender; dark",
+    "red": 163,
+    "green": 123,
+    "blue": 167
+  },
+  "210": {
+    "description": "lavender; medium",
+    "red": 195,
+    "green": 159,
+    "blue": 195
+  },
+  "211": {
+    "description": "lavender; light",
+    "red": 227,
+    "green": 203,
+    "blue": 227
+  },
+  "221": {
+    "description": "shell pink; very dark",
+    "red": 136,
+    "green": 62,
+    "blue": 67
+  },
+  "223": {
+    "description": "shell pink; light",
+    "red": 204,
+    "green": 132,
+    "blue": 124
+  },
+  "224": {
+    "description": "shell pink; very light",
+    "red": 235,
+    "green": 183,
+    "blue": 175
+  },
+  "225": {
+    "description": "shell pink; ultra very light",
+    "red": 255,
+    "green": 223,
+    "blue": 213
+  },
+  "300": {
+    "description": "mahogany; very dark",
+    "red": 111,
+    "green": 47,
+    "blue": 0
+  },
+  "301": {
+    "description": "mahogany; medium",
+    "red": 179,
+    "green": 95,
+    "blue": 43
+  },
+  "304": {
+    "description": "red; medium",
+    "red": 183,
+    "green": 31,
+    "blue": 51
+  },
+  "307": {
+    "description": "lemon",
+    "red": 253,
+    "green": 237,
+    "blue": 84
+  },
+  "309": {
+    "description": "rose; dark",
+    "red": 86,
+    "green": 74,
+    "blue": 74
+  },
+  "310": {
+    "description": "black",
+    "red": 0,
+    "green": 0,
+    "blue": 0
+  },
+  "311": {
+    "description": "wedgewood; ultra very dark",
+    "red": 28,
+    "green": 80,
+    "blue": 102
+  },
+  "312": {
+    "description": "baby blue; very dark",
+    "red": 53,
+    "green": 102,
+    "blue": 139
+  },
+  "315": {
+    "description": "antique mauve; medium dark",
+    "red": 129,
+    "green": 73,
+    "blue": 82
+  },
+  "316": {
+    "description": "antique mauve; medium",
+    "red": 183,
+    "green": 115,
+    "blue": 127
+  },
+  "317": {
+    "description": "pewter gray",
+    "red": 108,
+    "green": 108,
+    "blue": 108
+  },
+  "318": {
+    "description": "steel gray; light",
+    "red": 171,
+    "green": 171,
+    "blue": 171
+  },
+  "319": {
+    "description": "pistachio green; very dark",
+    "red": 32,
+    "green": 95,
+    "blue": 46
+  },
+  "320": {
+    "description": "pistachio green; medium",
+    "red": 105,
+    "green": 136,
+    "blue": 90
+  },
+  "321": {
+    "description": "red",
+    "red": 199,
+    "green": 43,
+    "blue": 59
+  },
+  "322": {
+    "description": "baby blue; dark",
+    "red": 90,
+    "green": 143,
+    "blue": 184
+  },
+  "326": {
+    "description": "rose; very dark",
+    "red": 179,
+    "green": 59,
+    "blue": 75
+  },
+  "327": {
+    "description": "violet; dark",
+    "red": 99,
+    "green": 54,
+    "blue": 102
+  },
+  "333": {
+    "description": "blue violet; very dark",
+    "red": 92,
+    "green": 84,
+    "blue": 120
+  },
+  "334": {
+    "description": "baby blue; medium",
+    "red": 115,
+    "green": 159,
+    "blue": 193
+  },
+  "335": {
+    "description": "rose",
+    "red": 238,
+    "green": 84,
+    "blue": 110
+  },
+  "336": {
+    "description": "navy blue",
+    "red": 37,
+    "green": 59,
+    "blue": 115
+  },
+  "340": {
+    "description": "blue violet; medium",
+    "red": 173,
+    "green": 167,
+    "blue": 199
+  },
+  "341": {
+    "description": "blue violet; light",
+    "red": 183,
+    "green": 191,
+    "blue": 221
+  },
+  "347": {
+    "description": "salmon; very dark",
+    "red": 191,
+    "green": 45,
+    "blue": 45
+  },
+  "349": {
+    "description": "coral; dark",
+    "red": 210,
+    "green": 16,
+    "blue": 53
+  },
+  "350": {
+    "description": "coral; medium",
+    "red": 224,
+    "green": 72,
+    "blue": 72
+  },
+  "351": {
+    "description": "coral",
+    "red": 233,
+    "green": 106,
+    "blue": 103
+  },
+  "352": {
+    "description": "coral; light",
+    "red": 253,
+    "green": 156,
+    "blue": 151
+  },
+  "353": {
+    "description": "peach",
+    "red": 254,
+    "green": 215,
+    "blue": 204
+  },
+  "355": {
+    "description": "terra cotta; dark",
+    "red": 152,
+    "green": 68,
+    "blue": 54
+  },
+  "356": {
+    "description": "terra cotta; medium",
+    "red": 197,
+    "green": 106,
+    "blue": 91
+  },
+  "367": {
+    "description": "pistachio green; dark",
+    "red": 97,
+    "green": 122,
+    "blue": 82
+  },
+  "368": {
+    "description": "pistachio green; light",
+    "red": 166,
+    "green": 194,
+    "blue": 152
+  },
+  "369": {
+    "description": "pistachio green; very light",
+    "red": 215,
+    "green": 237,
+    "blue": 204
+  },
+  "370": {
+    "description": "mustard; medium",
+    "red": 184,
+    "green": 157,
+    "blue": 100
+  },
+  "371": {
+    "description": "mustard",
+    "red": 191,
+    "green": 166,
+    "blue": 113
+  },
+  "372": {
+    "description": "mustard; light",
+    "red": 204,
+    "green": 183,
+    "blue": 132
+  },
+  "400": {
+    "description": "mahogany; dark",
+    "red": 143,
+    "green": 67,
+    "blue": 15
+  },
+  "402": {
+    "description": "mahogany; very light",
+    "red": 247,
+    "green": 167,
+    "blue": 119
+  },
+  "407": {
+    "description": "desert sand; medium",
+    "red": 187,
+    "green": 129,
+    "blue": 97
+  },
+  "413": {
+    "description": "pewter gray; dark",
+    "red": 86,
+    "green": 86,
+    "blue": 86
+  },
+  "414": {
+    "description": "steel gray; dark",
+    "red": 140,
+    "green": 140,
+    "blue": 140
+  },
+  "415": {
+    "description": "pearl gray",
+    "red": 211,
+    "green": 211,
+    "blue": 214
+  },
+  "420": {
+    "description": "hazelnut brown; dark",
+    "red": 160,
+    "green": 112,
+    "blue": 66
+  },
+  "422": {
+    "description": "hazelnut brown; light",
+    "red": 198,
+    "green": 159,
+    "blue": 123
+  },
+  "433": {
+    "description": "brown; medium",
+    "red": 122,
+    "green": 69,
+    "blue": 31
+  },
+  "434": {
+    "description": "brown; light",
+    "red": 152,
+    "green": 94,
+    "blue": 51
+  },
+  "435": {
+    "description": "brown; very light",
+    "red": 184,
+    "green": 119,
+    "blue": 72
+  },
+  "436": {
+    "description": "tan",
+    "red": 203,
+    "green": 144,
+    "blue": 81
+  },
+  "437": {
+    "description": "tan; light",
+    "red": 228,
+    "green": 187,
+    "blue": 142
+  },
+  "444": {
+    "description": "lemon; dark",
+    "red": 255,
+    "green": 214,
+    "blue": 0
+  },
+  "445": {
+    "description": "lemon; light",
+    "red": 255,
+    "green": 251,
+    "blue": 139
+  },
+  "451": {
+    "description": "shell gray; dark",
+    "red": 145,
+    "green": 123,
+    "blue": 115
+  },
+  "452": {
+    "description": "shell gray; medium",
+    "red": 192,
+    "green": 179,
+    "blue": 174
+  },
+  "453": {
+    "description": "shell gray; light",
+    "red": 215,
+    "green": 206,
+    "blue": 203
+  },
+  "469": {
+    "description": "avocado green",
+    "red": 114,
+    "green": 132,
+    "blue": 60
+  },
+  "470": {
+    "description": "avocado green; light",
+    "red": 148,
+    "green": 171,
+    "blue": 79
+  },
+  "471": {
+    "description": "avocado green; very light",
+    "red": 174,
+    "green": 191,
+    "blue": 121
+  },
+  "472": {
+    "description": "avocado green; ultra light",
+    "red": 216,
+    "green": 228,
+    "blue": 152
+  },
+  "498": {
+    "description": "red; dark",
+    "red": 167,
+    "green": 19,
+    "blue": 43
+  },
+  "500": {
+    "description": "blue green; very dark",
+    "red": 4,
+    "green": 77,
+    "blue": 51
+  },
+  "501": {
+    "description": "blue green; dark",
+    "red": 57,
+    "green": 111,
+    "blue": 82
+  },
+  "502": {
+    "description": "blue green",
+    "red": 91,
+    "green": 144,
+    "blue": 113
+  },
+  "503": {
+    "description": "blue green; medium",
+    "red": 123,
+    "green": 172,
+    "blue": 148
+  },
+  "504": {
+    "description": "blue green; very light",
+    "red": 196,
+    "green": 222,
+    "blue": 204
+  },
+  "505": {
+    "description": "jade; green",
+    "red": 51,
+    "green": 131,
+    "blue": 98
+  },
+  "517": {
+    "description": "wedgewood; dark",
+    "red": 59,
+    "green": 118,
+    "blue": 143
+  },
+  "518": {
+    "description": "wedgewood; light",
+    "red": 79,
+    "green": 147,
+    "blue": 167
+  },
+  "519": {
+    "description": "sky blue",
+    "red": 126,
+    "green": 177,
+    "blue": 200
+  },
+  "520": {
+    "description": "fern green; dark",
+    "red": 102,
+    "green": 109,
+    "blue": 79
+  },
+  "522": {
+    "description": "fern green",
+    "red": 150,
+    "green": 158,
+    "blue": 126
+  },
+  "523": {
+    "description": "fern green; light",
+    "red": 171,
+    "green": 177,
+    "blue": 151
+  },
+  "524": {
+    "description": "fern green; very light",
+    "red": 196,
+    "green": 205,
+    "blue": 172
+  },
+  "535": {
+    "description": "ash gray; very light",
+    "red": 99,
+    "green": 100,
+    "blue": 88
+  },
+  "543": {
+    "description": "beige brown; ultra very light",
+    "red": 242,
+    "green": 227,
+    "blue": 206
+  },
+  "550": {
+    "description": "violet; very dark",
+    "red": 92,
+    "green": 24,
+    "blue": 78
+  },
+  "552": {
+    "description": "violet; medium",
+    "red": 128,
+    "green": 58,
+    "blue": 107
+  },
+  "553": {
+    "description": "violet",
+    "red": 163,
+    "green": 99,
+    "blue": 139
+  },
+  "554": {
+    "description": "violet; light",
+    "red": 219,
+    "green": 179,
+    "blue": 203
+  },
+  "561": {
+    "description": "celadon green; very dark",
+    "red": 44,
+    "green": 106,
+    "blue": 69
+  },
+  "562": {
+    "description": "jade; medium",
+    "red": 83,
+    "green": 151,
+    "blue": 106
+  },
+  "563": {
+    "description": "jade; light",
+    "red": 143,
+    "green": 192,
+    "blue": 152
+  },
+  "564": {
+    "description": "jade; very light",
+    "red": 167,
+    "green": 205,
+    "blue": 175
+  },
+  "580": {
+    "description": "moss green; dark",
+    "red": 136,
+    "green": 141,
+    "blue": 51
+  },
+  "581": {
+    "description": "moss green",
+    "red": 167,
+    "green": 174,
+    "blue": 56
+  },
+  "597": {
+    "description": "turquoise",
+    "red": 91,
+    "green": 163,
+    "blue": 179
+  },
+  "598": {
+    "description": "turquoise; light",
+    "red": 144,
+    "green": 195,
+    "blue": 204
+  },
+  "600": {
+    "description": "cranberry; very dark",
+    "red": 205,
+    "green": 47,
+    "blue": 99
+  },
+  "601": {
+    "description": "cranberry; dark",
+    "red": 209,
+    "green": 40,
+    "blue": 106
+  },
+  "602": {
+    "description": "cranberry; medium",
+    "red": 226,
+    "green": 72,
+    "blue": 116
+  },
+  "603": {
+    "description": "cranberry",
+    "red": 255,
+    "green": 164,
+    "blue": 190
+  },
+  "604": {
+    "description": "cranberry; light",
+    "red": 255,
+    "green": 176,
+    "blue": 190
+  },
+  "605": {
+    "description": "cranberry; very light",
+    "red": 255,
+    "green": 192,
+    "blue": 205
+  },
+  "606": {
+    "description": "orange red bright",
+    "red": 250,
+    "green": 50,
+    "blue": 3
+  },
+  "608": {
+    "description": "burnt orange bright",
+    "red": 253,
+    "green": 93,
+    "blue": 53
+  },
+  "610": {
+    "description": "drab brown; dark",
+    "red": 121,
+    "green": 96,
+    "blue": 71
+  },
+  "611": {
+    "description": "drab brown",
+    "red": 150,
+    "green": 118,
+    "blue": 86
+  },
+  "612": {
+    "description": "drab brown; light",
+    "red": 188,
+    "green": 154,
+    "blue": 120
+  },
+  "613": {
+    "description": "drab brown; very light",
+    "red": 220,
+    "green": 196,
+    "blue": 170
+  },
+  "632": {
+    "description": "desert sand; ultra very dark",
+    "red": 135,
+    "green": 85,
+    "blue": 57
+  },
+  "640": {
+    "description": "beige gray; very dark",
+    "red": 133,
+    "green": 123,
+    "blue": 97
+  },
+  "642": {
+    "description": "beige gray; dark",
+    "red": 164,
+    "green": 152,
+    "blue": 120
+  },
+  "644": {
+    "description": "beige gray; medium",
+    "red": 221,
+    "green": 216,
+    "blue": 203
+  },
+  "645": {
+    "description": "beaver gray; very dark",
+    "red": 110,
+    "green": 101,
+    "blue": 92
+  },
+  "646": {
+    "description": "beaver gray; dark",
+    "red": 135,
+    "green": 125,
+    "blue": 115
+  },
+  "647": {
+    "description": "beaver gray; medium",
+    "red": 176,
+    "green": 166,
+    "blue": 156
+  },
+  "648": {
+    "description": "beaver gray; light",
+    "red": 188,
+    "green": 180,
+    "blue": 172
+  },
+  "666": {
+    "description": "bright red",
+    "red": 227,
+    "green": 29,
+    "blue": 66
+  },
+  "676": {
+    "description": "old gold; light",
+    "red": 229,
+    "green": 206,
+    "blue": 151
+  },
+  "677": {
+    "description": "old gold; very light",
+    "red": 245,
+    "green": 236,
+    "blue": 203
+  },
+  "680": {
+    "description": "old gold; dark",
+    "red": 188,
+    "green": 141,
+    "blue": 14
+  },
+  "699": {
+    "description": "green",
+    "red": 5,
+    "green": 101,
+    "blue": 23
+  },
+  "700": {
+    "description": "green bright",
+    "red": 7,
+    "green": 115,
+    "blue": 27
+  },
+  "701": {
+    "description": "green; light",
+    "red": 63,
+    "green": 143,
+    "blue": 41
+  },
+  "702": {
+    "description": "kelly green",
+    "red": 71,
+    "green": 167,
+    "blue": 47
+  },
+  "703": {
+    "description": "chartreuse",
+    "red": 123,
+    "green": 181,
+    "blue": 71
+  },
+  "704": {
+    "description": "chartreuse bright",
+    "red": 158,
+    "green": 207,
+    "blue": 52
+  },
+  "712": {
+    "description": "cream",
+    "red": 255,
+    "green": 251,
+    "blue": 239
+  },
+  "718": {
+    "description": "plum",
+    "red": 156,
+    "green": 36,
+    "blue": 98
+  },
+  "720": {
+    "description": "orange spice; dark",
+    "red": 229,
+    "green": 92,
+    "blue": 31
+  },
+  "721": {
+    "description": "orange spice; medium",
+    "red": 242,
+    "green": 120,
+    "blue": 66
+  },
+  "722": {
+    "description": "orange spice; light",
+    "red": 247,
+    "green": 151,
+    "blue": 111
+  },
+  "725": {
+    "description": "topaz; medium light",
+    "red": 255,
+    "green": 200,
+    "blue": 64
+  },
+  "726": {
+    "description": "topaz; light",
+    "red": 253,
+    "green": 215,
+    "blue": 85
+  },
+  "727": {
+    "description": "topaz; very light",
+    "red": 255,
+    "green": 241,
+    "blue": 175
+  },
+  "728": {
+    "description": "topaz",
+    "red": 228,
+    "green": 180,
+    "blue": 104
+  },
+  "729": {
+    "description": "old gold; medium",
+    "red": 208,
+    "green": 165,
+    "blue": 62
+  },
+  "730": {
+    "description": "olive green; very dark",
+    "red": 130,
+    "green": 123,
+    "blue": 48
+  },
+  "731": {
+    "description": "olive green; dark",
+    "red": 147,
+    "green": 139,
+    "blue": 55
+  },
+  "732": {
+    "description": "olive green",
+    "red": 148,
+    "green": 140,
+    "blue": 54
+  },
+  "733": {
+    "description": "olive green; medium",
+    "red": 188,
+    "green": 179,
+    "blue": 76
+  },
+  "734": {
+    "description": "olive green; light",
+    "red": 199,
+    "green": 192,
+    "blue": 119
+  },
+  "738": {
+    "description": "tan; very light",
+    "red": 236,
+    "green": 204,
+    "blue": 158
+  },
+  "739": {
+    "description": "tan; ultra very light",
+    "red": 248,
+    "green": 228,
+    "blue": 200
+  },
+  "740": {
+    "description": "tangerine",
+    "red": 255,
+    "green": 139,
+    "blue": 0
+  },
+  "741": {
+    "description": "tangerine; medium",
+    "red": 255,
+    "green": 163,
+    "blue": 43
+  },
+  "742": {
+    "description": "tangerine; light",
+    "red": 255,
+    "green": 191,
+    "blue": 87
+  },
+  "743": {
+    "description": "yellow; medium",
+    "red": 254,
+    "green": 211,
+    "blue": 118
+  },
+  "744": {
+    "description": "yellow; pale",
+    "red": 255,
+    "green": 231,
+    "blue": 147
+  },
+  "745": {
+    "description": "yellow pale; light",
+    "red": 255,
+    "green": 233,
+    "blue": 173
+  },
+  "746": {
+    "description": "off white",
+    "red": 252,
+    "green": 252,
+    "blue": 238
+  },
+  "747": {
+    "description": "peacock blue; very light",
+    "red": 229,
+    "green": 252,
+    "blue": 253
+  },
+  "754": {
+    "description": "peach; light",
+    "red": 247,
+    "green": 203,
+    "blue": 191
+  },
+  "758": {
+    "description": "terra cotta; very light",
+    "red": 238,
+    "green": 170,
+    "blue": 155
+  },
+  "760": {
+    "description": "salmon",
+    "red": 245,
+    "green": 173,
+    "blue": 173
+  },
+  "761": {
+    "description": "salmon; light",
+    "red": 255,
+    "green": 201,
+    "blue": 201
+  },
+  "762": {
+    "description": "pearl gray; very light",
+    "red": 236,
+    "green": 236,
+    "blue": 236
+  },
+  "772": {
+    "description": "yellow green; very light",
+    "red": 228,
+    "green": 236,
+    "blue": 212
+  },
+  "775": {
+    "description": "baby blue; very light",
+    "red": 217,
+    "green": 235,
+    "blue": 241
+  },
+  "776": {
+    "description": "pink; medium",
+    "red": 252,
+    "green": 176,
+    "blue": 185
+  },
+  "777": {
+    "description": "raspberry; very dark",
+    "red": 145,
+    "green": 53,
+    "blue": 70
+  },
+  "778": {
+    "description": "antique mauve; very light",
+    "red": 223,
+    "green": 179,
+    "blue": 187
+  },
+  "779": {
+    "description": "cocoa; dark",
+    "red": 98,
+    "green": 75,
+    "blue": 69
+  },
+  "780": {
+    "description": "topaz; ultra very dark",
+    "red": 148,
+    "green": 99,
+    "blue": 26
+  },
+  "781": {
+    "description": "topaz; very dark",
+    "red": 162,
+    "green": 109,
+    "blue": 32
+  },
+  "782": {
+    "description": "topaz; dark",
+    "red": 174,
+    "green": 119,
+    "blue": 32
+  },
+  "783": {
+    "description": "topaz; medium",
+    "red": 206,
+    "green": 145,
+    "blue": 36
+  },
+  "791": {
+    "description": "cornflower blue; very dark",
+    "red": 70,
+    "green": 69,
+    "blue": 99
+  },
+  "792": {
+    "description": "cornflower; blue dark",
+    "red": 85,
+    "green": 91,
+    "blue": 123
+  },
+  "793": {
+    "description": "cornflower blue; medium",
+    "red": 112,
+    "green": 125,
+    "blue": 162
+  },
+  "794": {
+    "description": "cornflower blue; light",
+    "red": 143,
+    "green": 156,
+    "blue": 193
+  },
+  "796": {
+    "description": "royal blue; dark",
+    "red": 17,
+    "green": 65,
+    "blue": 109
+  },
+  "797": {
+    "description": "royal blue",
+    "red": 19,
+    "green": 71,
+    "blue": 125
+  },
+  "798": {
+    "description": "delft blue; dark",
+    "red": 70,
+    "green": 106,
+    "blue": 142
+  },
+  "799": {
+    "description": "delft blue; medium",
+    "red": 116,
+    "green": 142,
+    "blue": 182
+  },
+  "800": {
+    "description": "delft blue; pale",
+    "red": 192,
+    "green": 204,
+    "blue": 222
+  },
+  "801": {
+    "description": "coffee brown; dark",
+    "red": 101,
+    "green": 57,
+    "blue": 25
+  },
+  "803": {
+    "description": "baby blue; ultra very dark",
+    "red": 44,
+    "green": 89,
+    "blue": 124
+  },
+  "806": {
+    "description": "peacock blue; dark",
+    "red": 61,
+    "green": 149,
+    "blue": 165
+  },
+  "807": {
+    "description": "peacock blue",
+    "red": 100,
+    "green": 171,
+    "blue": 186
+  },
+  "809": {
+    "description": "delft blue",
+    "red": 148,
+    "green": 168,
+    "blue": 198
+  },
+  "813": {
+    "description": "blue; light",
+    "red": 161,
+    "green": 194,
+    "blue": 215
+  },
+  "814": {
+    "description": "garnet; dark",
+    "red": 123,
+    "green": 0,
+    "blue": 27
+  },
+  "815": {
+    "description": "garnet; medium",
+    "red": 135,
+    "green": 7,
+    "blue": 31
+  },
+  "816": {
+    "description": "garnet",
+    "red": 151,
+    "green": 11,
+    "blue": 35
+  },
+  "817": {
+    "description": "coral red; very dark",
+    "red": 187,
+    "green": 5,
+    "blue": 31
+  },
+  "818": {
+    "description": "baby pink",
+    "red": 255,
+    "green": 223,
+    "blue": 217
+  },
+  "819": {
+    "description": "baby pink; light",
+    "red": 255,
+    "green": 238,
+    "blue": 235
+  },
+  "820": {
+    "description": "royal blue; very dark",
+    "red": 14,
+    "green": 54,
+    "blue": 92
+  },
+  "822": {
+    "description": "beige gray; light",
+    "red": 231,
+    "green": 226,
+    "blue": 211
+  },
+  "823": {
+    "description": "navy blue; dark",
+    "red": 33,
+    "green": 48,
+    "blue": 99
+  },
+  "824": {
+    "description": "blue; very dark",
+    "red": 57,
+    "green": 105,
+    "blue": 135
+  },
+  "825": {
+    "description": "blue; dark",
+    "red": 71,
+    "green": 129,
+    "blue": 165
+  },
+  "826": {
+    "description": "blue; medium",
+    "red": 107,
+    "green": 158,
+    "blue": 191
+  },
+  "827": {
+    "description": "blue; very light",
+    "red": 189,
+    "green": 221,
+    "blue": 237
+  },
+  "828": {
+    "description": "sky blue; very light",
+    "red": 197,
+    "green": 232,
+    "blue": 237
+  },
+  "829": {
+    "description": "golden olive; very dark",
+    "red": 126,
+    "green": 107,
+    "blue": 66
+  },
+  "830": {
+    "description": "golden olive; dark",
+    "red": 141,
+    "green": 120,
+    "blue": 75
+  },
+  "831": {
+    "description": "golden olive; medium",
+    "red": 170,
+    "green": 143,
+    "blue": 86
+  },
+  "832": {
+    "description": "golden olive",
+    "red": 189,
+    "green": 155,
+    "blue": 81
+  },
+  "833": {
+    "description": "golden olive; light",
+    "red": 200,
+    "green": 171,
+    "blue": 108
+  },
+  "834": {
+    "description": "golden olive; very light",
+    "red": 219,
+    "green": 190,
+    "blue": 127
+  },
+  "838": {
+    "description": "beige brown; very dark",
+    "red": 89,
+    "green": 73,
+    "blue": 55
+  },
+  "839": {
+    "description": "beige brown; dark",
+    "red": 103,
+    "green": 85,
+    "blue": 65
+  },
+  "840": {
+    "description": "beige brown; medium",
+    "red": 154,
+    "green": 124,
+    "blue": 92
+  },
+  "841": {
+    "description": "beige brown; light",
+    "red": 182,
+    "green": 155,
+    "blue": 126
+  },
+  "842": {
+    "description": "beige brown; very light",
+    "red": 209,
+    "green": 186,
+    "blue": 161
+  },
+  "844": {
+    "description": "beaver gray; ultra dark",
+    "red": 72,
+    "green": 72,
+    "blue": 72
+  },
+  "869": {
+    "description": "hazelnut brown; very dark",
+    "red": 131,
+    "green": 94,
+    "blue": 57
+  },
+  "890": {
+    "description": "pistachio green; ultra very dark",
+    "red": 23,
+    "green": 73,
+    "blue": 35
+  },
+  "891": {
+    "description": "carnation; dark",
+    "red": 255,
+    "green": 87,
+    "blue": 115
+  },
+  "892": {
+    "description": "carnation; medium",
+    "red": 255,
+    "green": 121,
+    "blue": 140
+  },
+  "893": {
+    "description": "carnation; light",
+    "red": 252,
+    "green": 144,
+    "blue": 162
+  },
+  "894": {
+    "description": "carnation; very light",
+    "red": 255,
+    "green": 178,
+    "blue": 187
+  },
+  "895": {
+    "description": "hunter green; very dark",
+    "red": 27,
+    "green": 83,
+    "blue": 0
+  },
+  "898": {
+    "description": "coffee brown; very dark",
+    "red": 73,
+    "green": 42,
+    "blue": 19
+  },
+  "899": {
+    "description": "rose; medium",
+    "red": 242,
+    "green": 118,
+    "blue": 136
+  },
+  "900": {
+    "description": "burnt orange; dark",
+    "red": 209,
+    "green": 88,
+    "blue": 7
+  },
+  "902": {
+    "description": "garnet; very dark",
+    "red": 130,
+    "green": 38,
+    "blue": 55
+  },
+  "904": {
+    "description": "parrot green; very dark",
+    "red": 85,
+    "green": 120,
+    "blue": 34
+  },
+  "905": {
+    "description": "parrot green; dark",
+    "red": 98,
+    "green": 138,
+    "blue": 40
+  },
+  "906": {
+    "description": "parrot green; medium",
+    "red": 127,
+    "green": 179,
+    "blue": 53
+  },
+  "907": {
+    "description": "parrot green; light",
+    "red": 199,
+    "green": 230,
+    "blue": 102
+  },
+  "909": {
+    "description": "emerald green; very dark",
+    "red": 21,
+    "green": 111,
+    "blue": 73
+  },
+  "910": {
+    "description": "emerald green; dark",
+    "red": 24,
+    "green": 126,
+    "blue": 86
+  },
+  "911": {
+    "description": "emerald green; medium",
+    "red": 24,
+    "green": 144,
+    "blue": 101
+  },
+  "912": {
+    "description": "emerald green; light",
+    "red": 27,
+    "green": 157,
+    "blue": 107
+  },
+  "913": {
+    "description": "nile green; medium",
+    "red": 109,
+    "green": 171,
+    "blue": 119
+  },
+  "915": {
+    "description": "plum; dark",
+    "red": 130,
+    "green": 0,
+    "blue": 67
+  },
+  "917": {
+    "description": "plum; medium",
+    "red": 155,
+    "green": 19,
+    "blue": 89
+  },
+  "918": {
+    "description": "red copper; dark",
+    "red": 130,
+    "green": 52,
+    "blue": 10
+  },
+  "919": {
+    "description": "red copper",
+    "red": 166,
+    "green": 69,
+    "blue": 16
+  },
+  "920": {
+    "description": "copper; medium",
+    "red": 172,
+    "green": 84,
+    "blue": 20
+  },
+  "921": {
+    "description": "copper",
+    "red": 198,
+    "green": 98,
+    "blue": 24
+  },
+  "922": {
+    "description": "copper; light",
+    "red": 226,
+    "green": 115,
+    "blue": 35
+  },
+  "924": {
+    "description": "gray green; very dark",
+    "red": 86,
+    "green": 106,
+    "blue": 106
+  },
+  "926": {
+    "description": "gray green; medium",
+    "red": 152,
+    "green": 174,
+    "blue": 174
+  },
+  "927": {
+    "description": "gray green; light",
+    "red": 189,
+    "green": 203,
+    "blue": 203
+  },
+  "928": {
+    "description": "gray green; very light",
+    "red": 221,
+    "green": 227,
+    "blue": 227
+  },
+  "930": {
+    "description": "antique blue; dark",
+    "red": 69,
+    "green": 92,
+    "blue": 113
+  },
+  "931": {
+    "description": "antique blue; medium",
+    "red": 106,
+    "green": 133,
+    "blue": 158
+  },
+  "932": {
+    "description": "antique blue; light",
+    "red": 162,
+    "green": 181,
+    "blue": 198
+  },
+  "934": {
+    "description": "avocado green; black",
+    "red": 49,
+    "green": 57,
+    "blue": 25
+  },
+  "935": {
+    "description": "avocado green; dark",
+    "red": 66,
+    "green": 77,
+    "blue": 33
+  },
+  "936": {
+    "description": "avocado green; very dark",
+    "red": 76,
+    "green": 88,
+    "blue": 38
+  },
+  "937": {
+    "description": "avocado green; medium",
+    "red": 98,
+    "green": 113,
+    "blue": 51
+  },
+  "938": {
+    "description": "coffee brown; ultra dark",
+    "red": 54,
+    "green": 31,
+    "blue": 14
+  },
+  "939": {
+    "description": "navy blue; very dark",
+    "red": 27,
+    "green": 40,
+    "blue": 83
+  },
+  "943": {
+    "description": "green bright; medium",
+    "red": 61,
+    "green": 147,
+    "blue": 132
+  },
+  "945": {
+    "description": "tawny",
+    "red": 251,
+    "green": 213,
+    "blue": 187
+  },
+  "946": {
+    "description": "burnt orange; medium",
+    "red": 235,
+    "green": 99,
+    "blue": 7
+  },
+  "947": {
+    "description": "burnt orange",
+    "red": 255,
+    "green": 123,
+    "blue": 77
+  },
+  "948": {
+    "description": "peach; very light",
+    "red": 254,
+    "green": 231,
+    "blue": 218
+  },
+  "950": {
+    "description": "desert sand; light",
+    "red": 238,
+    "green": 211,
+    "blue": 196
+  },
+  "951": {
+    "description": "tawny; light",
+    "red": 255,
+    "green": 226,
+    "blue": 207
+  },
+  "954": {
+    "description": "nile green",
+    "red": 136,
+    "green": 186,
+    "blue": 145
+  },
+  "955": {
+    "description": "nile green; light",
+    "red": 162,
+    "green": 214,
+    "blue": 173
+  },
+  "956": {
+    "description": "geranium",
+    "red": 255,
+    "green": 145,
+    "blue": 145
+  },
+  "957": {
+    "description": "geranium; pale",
+    "red": 253,
+    "green": 181,
+    "blue": 181
+  },
+  "958": {
+    "description": "sea green; dark",
+    "red": 62,
+    "green": 182,
+    "blue": 161
+  },
+  "959": {
+    "description": "sea green; medium",
+    "red": 89,
+    "green": 199,
+    "blue": 180
+  },
+  "961": {
+    "description": "dusty rose; dark",
+    "red": 207,
+    "green": 115,
+    "blue": 115
+  },
+  "962": {
+    "description": "dusty rose; medium",
+    "red": 230,
+    "green": 138,
+    "blue": 138
+  },
+  "963": {
+    "description": "dusty rose; ultra very light",
+    "red": 255,
+    "green": 215,
+    "blue": 215
+  },
+  "964": {
+    "description": "sea green; light",
+    "red": 169,
+    "green": 226,
+    "blue": 216
+  },
+  "966": {
+    "description": "jade; ultra very light",
+    "red": 185,
+    "green": 215,
+    "blue": 192
+  },
+  "967": {
+    "description": "apricot; very light",
+    "red": 255,
+    "green": 222,
+    "blue": 213
+  },
+  "970": {
+    "description": "pumpkin; light",
+    "red": 247,
+    "green": 139,
+    "blue": 19
+  },
+  "971": {
+    "description": "pumpkin",
+    "red": 246,
+    "green": 127,
+    "blue": 0
+  },
+  "972": {
+    "description": "canary deep",
+    "red": 255,
+    "green": 181,
+    "blue": 21
+  },
+  "973": {
+    "description": "canary bright",
+    "red": 255,
+    "green": 227,
+    "blue": 0
+  },
+  "975": {
+    "description": "golden brown; dark",
+    "red": 145,
+    "green": 79,
+    "blue": 18
+  },
+  "976": {
+    "description": "golden brown; medium",
+    "red": 194,
+    "green": 129,
+    "blue": 66
+  },
+  "977": {
+    "description": "golden brown; light",
+    "red": 220,
+    "green": 156,
+    "blue": 86
+  },
+  "986": {
+    "description": "forest green; very dark",
+    "red": 64,
+    "green": 82,
+    "blue": 48
+  },
+  "987": {
+    "description": "forest green; dark",
+    "red": 88,
+    "green": 113,
+    "blue": 65
+  },
+  "988": {
+    "description": "forest green; medium",
+    "red": 115,
+    "green": 139,
+    "blue": 91
+  },
+  "989": {
+    "description": "forest green",
+    "red": 141,
+    "green": 166,
+    "blue": 117
+  },
+  "991": {
+    "description": "aquamarine; dark",
+    "red": 71,
+    "green": 123,
+    "blue": 110
+  },
+  "992": {
+    "description": "aquamarine; light",
+    "red": 111,
+    "green": 174,
+    "blue": 159
+  },
+  "993": {
+    "description": "aquamarine; very light",
+    "red": 144,
+    "green": 192,
+    "blue": 180
+  },
+  "995": {
+    "description": "electric blue; dark",
+    "red": 38,
+    "green": 150,
+    "blue": 182
+  },
+  "996": {
+    "description": "electric blue; medium",
+    "red": 48,
+    "green": 194,
+    "blue": 236
+  },
+  "3011": {
+    "description": "khaki green; dark",
+    "red": 137,
+    "green": 138,
+    "blue": 88
+  },
+  "3012": {
+    "description": "khaki green; medium",
+    "red": 166,
+    "green": 167,
+    "blue": 93
+  },
+  "3013": {
+    "description": "khaki green; light",
+    "red": 185,
+    "green": 185,
+    "blue": 130
+  },
+  "3021": {
+    "description": "brown gray; very dark",
+    "red": 79,
+    "green": 75,
+    "blue": 65
+  },
+  "3022": {
+    "description": "brown gray; medium",
+    "red": 142,
+    "green": 144,
+    "blue": 120
+  },
+  "3023": {
+    "description": "brown gray; light",
+    "red": 177,
+    "green": 170,
+    "blue": 151
+  },
+  "3024": {
+    "description": "brown gray; very light",
+    "red": 235,
+    "green": 234,
+    "blue": 231
+  },
+  "3031": {
+    "description": "mocha brown; very dark",
+    "red": 75,
+    "green": 60,
+    "blue": 42
+  },
+  "3032": {
+    "description": "mocha brown; medium",
+    "red": 179,
+    "green": 159,
+    "blue": 139
+  },
+  "3033": {
+    "description": "mocha brown; very light",
+    "red": 227,
+    "green": 216,
+    "blue": 204
+  },
+  "3041": {
+    "description": "antique violet; medium",
+    "red": 149,
+    "green": 111,
+    "blue": 124
+  },
+  "3042": {
+    "description": "antique violet; light",
+    "red": 183,
+    "green": 157,
+    "blue": 167
+  },
+  "3045": {
+    "description": "yellow beige; dark",
+    "red": 188,
+    "green": 150,
+    "blue": 106
+  },
+  "3046": {
+    "description": "yellow beige; medium",
+    "red": 216,
+    "green": 188,
+    "blue": 154
+  },
+  "3047": {
+    "description": "yellow beige; light",
+    "red": 231,
+    "green": 214,
+    "blue": 193
+  },
+  "3051": {
+    "description": "green gray; dark",
+    "red": 95,
+    "green": 102,
+    "blue": 72
+  },
+  "3052": {
+    "description": "green gray; medium",
+    "red": 136,
+    "green": 146,
+    "blue": 104
+  },
+  "3053": {
+    "description": "green gray",
+    "red": 156,
+    "green": 164,
+    "blue": 130
+  },
+  "3064": {
+    "description": "desert sand",
+    "red": 196,
+    "green": 142,
+    "blue": 112
+  },
+  "3072": {
+    "description": "beaver gray; very light",
+    "red": 230,
+    "green": 232,
+    "blue": 232
+  },
+  "3078": {
+    "description": "golden yellow; very light",
+    "red": 253,
+    "green": 249,
+    "blue": 205
+  },
+  "3325": {
+    "description": "baby blue; light",
+    "red": 184,
+    "green": 210,
+    "blue": 230
+  },
+  "3326": {
+    "description": "rose; light",
+    "red": 251,
+    "green": 173,
+    "blue": 180
+  },
+  "3328": {
+    "description": "salmon; dark",
+    "red": 227,
+    "green": 109,
+    "blue": 109
+  },
+  "3340": {
+    "description": "apricot; medium",
+    "red": 255,
+    "green": 131,
+    "blue": 111
+  },
+  "3341": {
+    "description": "apricot",
+    "red": 252,
+    "green": 171,
+    "blue": 152
+  },
+  "3345": {
+    "description": "hunter green; dark",
+    "red": 27,
+    "green": 89,
+    "blue": 21
+  },
+  "3346": {
+    "description": "hunter green",
+    "red": 64,
+    "green": 106,
+    "blue": 58
+  },
+  "3347": {
+    "description": "yellow green; medium",
+    "red": 113,
+    "green": 147,
+    "blue": 92
+  },
+  "3348": {
+    "description": "yellow green; light",
+    "red": 204,
+    "green": 217,
+    "blue": 177
+  },
+  "3350": {
+    "description": "dusty rose; ultra dark",
+    "red": 188,
+    "green": 67,
+    "blue": 101
+  },
+  "3354": {
+    "description": "dusty rose; light",
+    "red": 228,
+    "green": 166,
+    "blue": 172
+  },
+  "3362": {
+    "description": "pine green; dark",
+    "red": 94,
+    "green": 107,
+    "blue": 71
+  },
+  "3363": {
+    "description": "pine green; medium",
+    "red": 114,
+    "green": 130,
+    "blue": 86
+  },
+  "3364": {
+    "description": "pine green",
+    "red": 131,
+    "green": 151,
+    "blue": 95
+  },
+  "3371": {
+    "description": "black brown",
+    "red": 30,
+    "green": 17,
+    "blue": 8
+  },
+  "3607": {
+    "description": "plum; light",
+    "red": 197,
+    "green": 73,
+    "blue": 137
+  },
+  "3608": {
+    "description": "plum; very light",
+    "red": 234,
+    "green": 156,
+    "blue": 196
+  },
+  "3609": {
+    "description": "plum; ultra light",
+    "red": 244,
+    "green": 174,
+    "blue": 213
+  },
+  "3685": {
+    "description": "mauve; very dark",
+    "red": 136,
+    "green": 21,
+    "blue": 49
+  },
+  "3687": {
+    "description": "mauve",
+    "red": 201,
+    "green": 107,
+    "blue": 112
+  },
+  "3688": {
+    "description": "mauve; medium",
+    "red": 231,
+    "green": 169,
+    "blue": 172
+  },
+  "3689": {
+    "description": "mauve; light",
+    "red": 251,
+    "green": 191,
+    "blue": 194
+  },
+  "3705": {
+    "description": "melon; dark",
+    "red": 255,
+    "green": 121,
+    "blue": 146
+  },
+  "3706": {
+    "description": "melon; medium",
+    "red": 255,
+    "green": 173,
+    "blue": 188
+  },
+  "3708": {
+    "description": "melon; light",
+    "red": 255,
+    "green": 203,
+    "blue": 213
+  },
+  "3712": {
+    "description": "salmon; medium",
+    "red": 241,
+    "green": 135,
+    "blue": 135
+  },
+  "3713": {
+    "description": "salmon; very light",
+    "red": 255,
+    "green": 226,
+    "blue": 226
+  },
+  "3716": {
+    "description": "dusty rose; medium very light",
+    "red": 255,
+    "green": 189,
+    "blue": 189
+  },
+  "3721": {
+    "description": "shell pink; dark",
+    "red": 161,
+    "green": 75,
+    "blue": 81
+  },
+  "3722": {
+    "description": "shell pink; medium",
+    "red": 188,
+    "green": 108,
+    "blue": 100
+  },
+  "3726": {
+    "description": "antique mauve; dark",
+    "red": 155,
+    "green": 91,
+    "blue": 102
+  },
+  "3727": {
+    "description": "antique mauve; light",
+    "red": 219,
+    "green": 169,
+    "blue": 178
+  },
+  "3731": {
+    "description": "dusty rose; very dark",
+    "red": 218,
+    "green": 103,
+    "blue": 131
+  },
+  "3733": {
+    "description": "dusty rose",
+    "red": 232,
+    "green": 135,
+    "blue": 155
+  },
+  "3740": {
+    "description": "antique violet; dark",
+    "red": 120,
+    "green": 87,
+    "blue": 98
+  },
+  "3743": {
+    "description": "antique violet; very light",
+    "red": 215,
+    "green": 203,
+    "blue": 211
+  },
+  "3746": {
+    "description": "blue violet; dark",
+    "red": 119,
+    "green": 107,
+    "blue": 152
+  },
+  "3747": {
+    "description": "blue violet; very light",
+    "red": 211,
+    "green": 215,
+    "blue": 237
+  },
+  "3750": {
+    "description": "antique blue; very dark",
+    "red": 56,
+    "green": 76,
+    "blue": 94
+  },
+  "3752": {
+    "description": "antique blue; very light",
+    "red": 199,
+    "green": 209,
+    "blue": 219
+  },
+  "3753": {
+    "description": "antique blue; ultra very light",
+    "red": 219,
+    "green": 226,
+    "blue": 233
+  },
+  "3755": {
+    "description": "baby blue",
+    "red": 147,
+    "green": 180,
+    "blue": 206
+  },
+  "3756": {
+    "description": "baby blue; ultra very light",
+    "red": 238,
+    "green": 252,
+    "blue": 252
+  },
+  "3760": {
+    "description": "wedgewood; medium",
+    "red": 62,
+    "green": 133,
+    "blue": 162
+  },
+  "3761": {
+    "description": "sky blue; light",
+    "red": 172,
+    "green": 216,
+    "blue": 226
+  },
+  "3765": {
+    "description": "peacock blue; very dark",
+    "red": 52,
+    "green": 127,
+    "blue": 140
+  },
+  "3766": {
+    "description": "peacock blue; light",
+    "red": 153,
+    "green": 207,
+    "blue": 217
+  },
+  "3768": {
+    "description": "gray green; dark",
+    "red": 101,
+    "green": 127,
+    "blue": 127
+  },
+  "3770": {
+    "description": "tawny; very light",
+    "red": 255,
+    "green": 238,
+    "blue": 227
+  },
+  "3771": {
+    "description": "terra cotta; ultra very light",
+    "red": 244,
+    "green": 187,
+    "blue": 169
+  },
+  "3772": {
+    "description": "desert sand; very dark",
+    "red": 160,
+    "green": 108,
+    "blue": 80
+  },
+  "3773": {
+    "description": "desert sand; dark",
+    "red": 182,
+    "green": 117,
+    "blue": 82
+  },
+  "3774": {
+    "description": "desert sand; very light",
+    "red": 243,
+    "green": 225,
+    "blue": 215
+  },
+  "3776": {
+    "description": "mahogany; light",
+    "red": 207,
+    "green": 121,
+    "blue": 57
+  },
+  "3777": {
+    "description": "terra cotta; very dark",
+    "red": 134,
+    "green": 48,
+    "blue": 34
+  },
+  "3778": {
+    "description": "terra cotta; light",
+    "red": 217,
+    "green": 137,
+    "blue": 120
+  },
+  "3779": {
+    "description": "rosewood; ultra very light",
+    "red": 248,
+    "green": 202,
+    "blue": 200
+  },
+  "3781": {
+    "description": "mocha brown; dark",
+    "red": 107,
+    "green": 87,
+    "blue": 67
+  },
+  "3782": {
+    "description": "mocha brown; light",
+    "red": 210,
+    "green": 188,
+    "blue": 166
+  },
+  "3787": {
+    "description": "brown gray; dark",
+    "red": 98,
+    "green": 93,
+    "blue": 80
+  },
+  "3790": {
+    "description": "beige gray; ultra dark",
+    "red": 127,
+    "green": 106,
+    "blue": 85
+  },
+  "3799": {
+    "description": "pewter gray; very dark",
+    "red": 66,
+    "green": 66,
+    "blue": 66
+  },
+  "3801": {
+    "description": "melon; very dark",
+    "red": 231,
+    "green": 73,
+    "blue": 103
+  },
+  "3802": {
+    "description": "antique mauve; very dark",
+    "red": 113,
+    "green": 65,
+    "blue": 73
+  },
+  "3803": {
+    "description": "mauve; dark",
+    "red": 171,
+    "green": 51,
+    "blue": 87
+  },
+  "3804": {
+    "description": "cyclamen pink; dark",
+    "red": 224,
+    "green": 40,
+    "blue": 118
+  },
+  "3805": {
+    "description": "cyclamen pink",
+    "red": 243,
+    "green": 71,
+    "blue": 139
+  },
+  "3806": {
+    "description": "cyclamen pink; light",
+    "red": 255,
+    "green": 140,
+    "blue": 174
+  },
+  "3807": {
+    "description": "cornflower blue",
+    "red": 96,
+    "green": 103,
+    "blue": 140
+  },
+  "3808": {
+    "description": "turquoise; ultra very dark",
+    "red": 54,
+    "green": 105,
+    "blue": 112
+  },
+  "3809": {
+    "description": "turquoise; very dark",
+    "red": 63,
+    "green": 124,
+    "blue": 133
+  },
+  "3810": {
+    "description": "turquoise; dark",
+    "red": 72,
+    "green": 142,
+    "blue": 154
+  },
+  "3811": {
+    "description": "turquoise; very light",
+    "red": 188,
+    "green": 227,
+    "blue": 230
+  },
+  "3812": {
+    "description": "sea green; very dark",
+    "red": 47,
+    "green": 140,
+    "blue": 132
+  },
+  "3813": {
+    "description": "blue green; light",
+    "red": 178,
+    "green": 212,
+    "blue": 189
+  },
+  "3814": {
+    "description": "aquamarine",
+    "red": 80,
+    "green": 139,
+    "blue": 125
+  },
+  "3815": {
+    "description": "celadon green; dark",
+    "red": 71,
+    "green": 119,
+    "blue": 89
+  },
+  "3816": {
+    "description": "celadon green",
+    "red": 101,
+    "green": 165,
+    "blue": 125
+  },
+  "3817": {
+    "description": "celadon green; light",
+    "red": 153,
+    "green": 195,
+    "blue": 170
+  },
+  "3818": {
+    "description": "emerald green; ultra very dark",
+    "red": 17,
+    "green": 90,
+    "blue": 59
+  },
+  "3819": {
+    "description": "moss green; light",
+    "red": 224,
+    "green": 232,
+    "blue": 104
+  },
+  "3820": {
+    "description": "straw; dark",
+    "red": 223,
+    "green": 182,
+    "blue": 95
+  },
+  "3821": {
+    "description": "straw",
+    "red": 243,
+    "green": 206,
+    "blue": 117
+  },
+  "3822": {
+    "description": "straw; light",
+    "red": 246,
+    "green": 220,
+    "blue": 152
+  },
+  "3823": {
+    "description": "yellow; ultra pale",
+    "red": 255,
+    "green": 253,
+    "blue": 227
+  },
+  "3824": {
+    "description": "apricot; light",
+    "red": 254,
+    "green": 205,
+    "blue": 194
+  },
+  "3825": {
+    "description": "pumpkin; pale",
+    "red": 253,
+    "green": 189,
+    "blue": 150
+  },
+  "3826": {
+    "description": "golden brown",
+    "red": 173,
+    "green": 114,
+    "blue": 57
+  },
+  "3827": {
+    "description": "golden brown; pale",
+    "red": 247,
+    "green": 187,
+    "blue": 119
+  },
+  "3828": {
+    "description": "hazelnut brown",
+    "red": 183,
+    "green": 139,
+    "blue": 97
+  },
+  "3829": {
+    "description": "old gold; very dark",
+    "red": 169,
+    "green": 130,
+    "blue": 4
+  },
+  "3830": {
+    "description": "terra cotta",
+    "red": 185,
+    "green": 85,
+    "blue": 68
+  },
+  "3831": {
+    "description": "raspberry; dark",
+    "red": 179,
+    "green": 47,
+    "blue": 72
+  },
+  "3832": {
+    "description": "raspberry; medium",
+    "red": 219,
+    "green": 85,
+    "blue": 110
+  },
+  "3833": {
+    "description": "raspberry; light",
+    "red": 234,
+    "green": 134,
+    "blue": 153
+  },
+  "3834": {
+    "description": "grape; dark",
+    "red": 114,
+    "green": 55,
+    "blue": 93
+  },
+  "3835": {
+    "description": "grape; medium",
+    "red": 148,
+    "green": 96,
+    "blue": 131
+  },
+  "3836": {
+    "description": "grape; light",
+    "red": 186,
+    "green": 145,
+    "blue": 170
+  },
+  "3837": {
+    "description": "lavender; ultra dark",
+    "red": 108,
+    "green": 58,
+    "blue": 110
+  },
+  "3838": {
+    "description": "lavender blue; dark",
+    "red": 92,
+    "green": 114,
+    "blue": 148
+  },
+  "3839": {
+    "description": "lavender blue; medium",
+    "red": 123,
+    "green": 142,
+    "blue": 171
+  },
+  "3840": {
+    "description": "lavender blue; light",
+    "red": 176,
+    "green": 192,
+    "blue": 218
+  },
+  "3841": {
+    "description": "baby blue; pale",
+    "red": 205,
+    "green": 223,
+    "blue": 237
+  },
+  "3842": {
+    "description": "wedgewood; very dark",
+    "red": 50,
+    "green": 102,
+    "blue": 124
+  },
+  "3843": {
+    "description": "electric blue",
+    "red": 20,
+    "green": 170,
+    "blue": 208
+  },
+  "3844": {
+    "description": "turquoise bright; dark",
+    "red": 18,
+    "green": 174,
+    "blue": 186
+  },
+  "3845": {
+    "description": "turquoise bright; medium",
+    "red": 4,
+    "green": 196,
+    "blue": 202
+  },
+  "3846": {
+    "description": "turquoise bright; light",
+    "red": 6,
+    "green": 227,
+    "blue": 230
+  },
+  "3847": {
+    "description": "teal green; dark",
+    "red": 52,
+    "green": 125,
+    "blue": 117
+  },
+  "3848": {
+    "description": "teal green; medium",
+    "red": 85,
+    "green": 147,
+    "blue": 146
+  },
+  "3849": {
+    "description": "teal green; light",
+    "red": 82,
+    "green": 179,
+    "blue": 164
+  },
+  "3850": {
+    "description": "green bright; dark",
+    "red": 55,
+    "green": 132,
+    "blue": 119
+  },
+  "3851": {
+    "description": "green bright; light",
+    "red": 73,
+    "green": 179,
+    "blue": 161
+  },
+  "3852": {
+    "description": "straw; very dark",
+    "red": 205,
+    "green": 157,
+    "blue": 55
+  },
+  "3853": {
+    "description": "autumn gold; dark",
+    "red": 242,
+    "green": 151,
+    "blue": 70
+  },
+  "3854": {
+    "description": "autumn gold; medium",
+    "red": 242,
+    "green": 175,
+    "blue": 104
+  },
+  "3855": {
+    "description": "autumn gold; light",
+    "red": 250,
+    "green": 211,
+    "blue": 150
+  },
+  "3856": {
+    "description": "mahogany; ultra very light",
+    "red": 255,
+    "green": 211,
+    "blue": 181
+  },
+  "3857": {
+    "description": "rosewood; dark",
+    "red": 104,
+    "green": 37,
+    "blue": 26
+  },
+  "3858": {
+    "description": "rosewood; medium",
+    "red": 150,
+    "green": 74,
+    "blue": 63
+  },
+  "3859": {
+    "description": "rosewood; light",
+    "red": 186,
+    "green": 139,
+    "blue": 124
+  },
+  "3860": {
+    "description": "cocoa",
+    "red": 125,
+    "green": 93,
+    "blue": 87
+  },
+  "3861": {
+    "description": "cocoa; light",
+    "red": 166,
+    "green": 136,
+    "blue": 129
+  },
+  "3862": {
+    "description": "mocha beige; dark",
+    "red": 138,
+    "green": 110,
+    "blue": 78
+  },
+  "3863": {
+    "description": "mocha beige; medium",
+    "red": 164,
+    "green": 131,
+    "blue": 92
+  },
+  "3864": {
+    "description": "mocha beige; light",
+    "red": 203,
+    "green": 182,
+    "blue": 156
+  },
+  "3865": {
+    "description": "winter white",
+    "red": 249,
+    "green": 247,
+    "blue": 241
+  },
+  "3866": {
+    "description": "mocha brown; ultra very light",
+    "red": 250,
+    "green": 246,
+    "blue": 240
+  },
+  "B5200": {
+    "description": "snow white",
+    "red": 255,
+    "green": 255,
+    "blue": 255
+  },
+  "ECRU": {
+    "description": "ecru",
+    "red": 240,
+    "green": 234,
+    "blue": 218
+  },
+  "WHITE": {
+    "description": "white",
+    "red": 252,
+    "green": 251,
+    "blue": 248
+  }
+}

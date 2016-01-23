@@ -1,24 +1,24 @@
-var express = require('express');
-var app = express();
+var exps = require('express');
+var app = exps();
 var fs = require('fs');
 
 function generate() {
 	var dmc = {};
 	var sections = {};
 	var stitches = [];
-	fs.readFile('./json/dmc.json', function(err, dmc_data) {
+	fs.readFile('./static/dmc.json', function(err, dmc_data) {
 		if(err) {
-			res.send('dmc fail');
+			console.log('dmc fail');
 		} else {
 			dmc = JSON.parse(dmc_data);
-			fs.readFile('./json/sections.json', function(err, section_data) {
+			fs.readFile('./static/sections.json', function(err, section_data) {
 				if(err) {
-					res.send('sections fail');
+					console.log('sections fail');
 				} else {
 					sections = JSON.parse(section_data);
-					fs.readFile('./json/stitches.json', function(err, stitch_data) {
+					fs.readFile('./static/stitches.json', function(err, stitch_data) {
 						if(err) {
-							res.send('stitches fail');
+							console.log('stitches fail');
 						} else {
 							stitches = JSON.parse(stitch_data);
 							var data = [];
@@ -26,7 +26,7 @@ function generate() {
 							stitches.forEach(function(v) {
 								var key = v.section + '-' + v.x + '-' + v.y;
 								if(-1 != sanity.indexOf(key)) {
-									res.send('duplicate fail' + key);
+									console.log('duplicate fail' + key);
 								} else {
 									sanity.push(key);
 								}
@@ -40,9 +40,9 @@ function generate() {
 								data.push(stitch);
 							});
 							data = 'var stitches = ' + JSON.stringify(data);
-							fs.writeFile('./json/data.json', data, function(err) {
+							fs.writeFile('./data.json', data, function(err) {
 								if(err) {
-									res.send('write fail' + data);
+									console.log('write fail' + data);
 								}
 							});
 						}
@@ -53,18 +53,18 @@ function generate() {
 	});
 }
 
-app.use(express.static(__dirname + '/json'));
+app.use(exps.static(__dirname + '/static'));
 
-app.get('/final.png', function(req, res) {
-	res.sendFile(__dirname + '/final.png');
-});
-
-app.get('*', function(req, res) {
-	fs.readFile('./json/data.json', fucntion(err) {
+app.get('/data.json', function(req, res) {
+	fs.readFile('./data.json', function(err) {
 		if(err) {
 			generate();
 		}
 	});
+	res.sendFile(__dirname + '/data.json');
+});
+
+app.get('*', function(req, res) {
 	res.sendFile(__dirname + '/index.html');
 });
 
