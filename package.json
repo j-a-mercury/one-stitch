@@ -4,10 +4,10 @@
   "description": "One Stitch Simulation",
   "main": "index.js",
   "enginges": {
-	"node": "4.2.3"
+	"node": "6.11.1"
   },
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.15.3"
   },
   "devDependencies": {},
   "scripts": {
